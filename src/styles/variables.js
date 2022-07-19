@@ -1,0 +1,21 @@
+export const color = {
+	primaryColor: '#1d1645',
+	lightPrimaryColor: '#231951',
+	secondaryColor: '#4e476d',
+    textColor: '#314351',
+	textWhiteColor: '#fafcfc',
+	textPurpleColor: '#6348e9',
+    textGreyColor: '#5c6975',
+	whiteColor: '#fff',
+	greyBackgroundColor: '#faf9fb',
+	borderColor: '#e6e6e6',
+	buttonColor: '#6348e9',
+	orangeColor: '#ffa280',
+	shadowColor: 'rgba(0, 0, 0, 0.1)',
+	tagColor: '#a0a0a0',
+	dividerColor: '#979797',
+	lightGreyColor: '#919294',
+	placeholderColor: 'rgba(35, 38, 43, 0.2)',
+	scrollBarColor: '#e5e5e5',
+	errorColor: '#FF0000'
+};
